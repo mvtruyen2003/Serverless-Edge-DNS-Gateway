@@ -37,6 +37,7 @@ https://raw.githubusercontent.com/bibicadotnet/blocklist_minimal/main/blocklists
 echo "Downloading and processing allowlists..."
 curl -fsSL --max-time 60 \
 https://raw.githubusercontent.com/bibicadotnet/AdGuard-Home-blocklists/refs/heads/main/whitelist.txt \
+https://raw.githubusercontent.com/mvtruyen2003/Dns/refs/heads/main/allowlist \
 | extract_domains > "$ALLOW_TMP"
 
 # Di chuyển file tmp vào thư mục đích
