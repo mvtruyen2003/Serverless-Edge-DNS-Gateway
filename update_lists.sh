@@ -33,7 +33,6 @@ echo "Downloading and processing blocklists..."
 curl -fsSL --max-time 60 \
 https://raw.githubusercontent.com/bibicadotnet/blocklist_minimal/main/blocklists.txt \
 https://raw.githubusercontent.com/mvtruyen2003/Dns/refs/heads/main/Block \
-https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt \
 https://filters.adtidy.org/ios/filters/14_optimized.txt \
 https://filters.adtidy.org/ios/filters/11_optimized.txt \
 | extract_domains > "$BLOCK_TMP"
