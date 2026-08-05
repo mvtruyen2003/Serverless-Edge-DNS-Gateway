@@ -36,7 +36,6 @@ https://raw.githubusercontent.com/mvtruyen2003/Dns/refs/heads/main/Block \
 https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt \
 https://filters.adtidy.org/ios/filters/14_optimized.txt \
 https://filters.adtidy.org/ios/filters/11_optimized.txt \
-https://secure.fanboy.co.nz/easylist.txt \
 | extract_domains > "$BLOCK_TMP"
 
 echo "Downloading and processing allowlists..."
