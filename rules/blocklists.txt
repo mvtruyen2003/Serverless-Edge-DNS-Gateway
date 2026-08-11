@@ -9840,6 +9840,7 @@ ads.adretriever.com
 ads.adservme.com
 ads.adsmartx.com
 ads.adsmedia.com
+ads.adsstack.com
 ads.adsterra.com
 ads.adstream.com.ro
 ads.adsurve.com
@@ -9977,6 +9978,7 @@ ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
 ads.brazino777.mx
+ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.broadsolutionsgroup.com
@@ -15063,7 +15065,8 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
-allfail-www.east.adadvisor.net
+allfail-www.all.adadvisor.net
+allfail-www.west.adadvisor.net
 allfile.me
 allforyourlife.org
 allfreecounter.com
@@ -17805,6 +17808,7 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
+analytics.shephertz.com
 analytics.shift.agency
 analytics.shop.hisense.com
 analytics.shopdutyfree.com
@@ -18191,6 +18195,7 @@ analytics.webanalytics.op.europa.eu
 analytics.webflow.com
 analytics.webfokus.no
 analytics.webgains.io
+analytics.webproxy.idc.chinamobile.com
 analytics.webpushr.com
 analytics.websolute.it
 analytics.webynize.com
@@ -19482,6 +19487,7 @@ api.browser.intl.miui.com
 api.brs.intl.miui.com
 api.brunoacosta.com
 api.brutalkill.com.br
+api.bslacademy.com.br
 api.btloader.com
 api.bttrack.com
 api.bugsee.com
@@ -20065,6 +20071,7 @@ api.openova.com.br
 api.openpanel.dev
 api.openseminovos.com.br
 api.operalt.com.br
+api.oplayburguer.com.br
 api.opmnstr.com
 api.optmnstr.com
 api.oraale.com
@@ -20287,6 +20294,7 @@ api.tdp.u7u9.com
 api.tecbov.com.br
 api.telega.info
 api.telemetry.watchabc.go.com
+api.tendency.com.br
 api.terapeutaandrearaujo.com.br
 api.terracasadecor.com.br
 api.teslatreinamentos.com
@@ -21281,6 +21289,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -25494,6 +25503,7 @@ battutocritics.com
 bauchleaweek.shop
 bauddoih.com
 bauernative.com
+bauhfbxwcueap.space
 bauleashilled.qpon
 bauqp.plankhardware.com
 bauvf.bullystickscentral.com
@@ -33531,6 +33541,7 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.starseed.fr
@@ -33658,7 +33669,6 @@ cdn.yollamedia.com
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
-cdn.zampdsp.com
 cdn.zamunda.ru
 cdn.zebotv.online
 cdn.zx-adnet.com
@@ -36936,6 +36946,7 @@ cname.finess.jp
 cname.gladis.jp
 cname.kyusai.co.jp
 cname.lions-mansion.jp
+cname.luccacustoms.com.br
 cname.mitsuihome.co.jp
 cname.polestar-m.jp
 cname.restys.jp
@@ -48091,7 +48102,6 @@ dblindsey.com
 dblks.net
 dbmaster.aatkit.com
 dbmgc.marleylilly.com
-dbmgikwoijnhu.online
 dbmkkfqpgcijj.space
 dbmlkpqrktyto.online
 dbmyvl.apartmentfinder.com
@@ -48515,6 +48525,7 @@ dealsfor.me
 dealshik.com
 dealtoneoddly.com
 dealwa.cc
+deanerefreetshazam.cyou
 deanerugaronokorana.cyou
 deaningpassecanamo.qpon
 deanmediagroup.com
@@ -48787,7 +48798,6 @@ delidatax.net
 delightcash.com
 delightchat.io
 delightful-theme.pro
-delightful.eso.com
 delightlintlunatic.com
 delightpowerful.com
 delightspiritedtroop.com
@@ -52109,6 +52119,7 @@ dsb68d.com
 dsb6jelx4yhln.cloudfront.net
 dsba.org
 dsbahmgppc0j4.cloudfront.net
+dsbajr.com
 dsbdyr.com
 dsbexk.com
 dsbhmq.com
@@ -52468,6 +52479,7 @@ dsttcr.com
 dsttpi.com
 dstvpc.com
 dsucet.com
+dsufnt.com
 dsufzy.com
 dsughf.com
 dsuhyg.com
@@ -53277,7 +53289,6 @@ dynsrvtyu.com
 dynssp.com
 dyntrk.com
 dyodrs1kxvg6o.cloudfront.net
-dyosluubp.com
 dypeizqkapgoz.site
 dyqebg.aboutyou.hr
 dyqzjfpmlkwsv.website
@@ -56950,6 +56961,7 @@ eqs.accountants.intuit.com
 eqs.intuit.com
 eqsdv.everlane.com
 equablekettle.com
+equal-consequence.pro
 equalfall.pro
 equallynativegopher.shop
 equallyneedily.com
@@ -59059,7 +59071,6 @@ eywkdpzpyggcq.site
 eywvko.shaddy.jp
 eyx.mybluehost.me
 eyxafvqxebmxc.space
-eyyejsherkfws.online
 eyyhsmsvymolw.online
 eyypxz.canifa.com
 eyzerannl.com
@@ -63696,6 +63707,7 @@ fxgate.baidu.com
 fxghyhcifmyel.store
 fxgkhf.ponroy.com
 fxgrscstakhxi.space
+fxgsllikmycya.space
 fxgzkkroeavcj.space
 fxhbo217a740f19f.top
 fxipca.americanexpress.ca
@@ -69326,6 +69338,7 @@ gtm.eucurioso.com.br
 gtm.eujuntomilhas.com
 gtm.eusouwilliam.com.br
 gtm.evascientific.com
+gtm.eventodemarketingpolitico.com.br
 gtm.eventos.grupofap.com.br
 gtm.eventosindaia.com.br
 gtm.everafterfarms.com
@@ -71641,6 +71654,7 @@ gtmserver.motomaxyamaha.com
 gtmserver.mundoleilao.com
 gtmserver.nunoparanhos.com.br
 gtmserver.optimify.ai
+gtmserver.orthonet.com.co
 gtmserver.pazzei.com.br
 gtmserver.plannerlovers.com.br
 gtmserver.plantao24h.med.br
@@ -74094,6 +74108,7 @@ hjidtzxvgybjp.site
 hjiuz.meundies.com
 hjjugtkcrizxg.website
 hjjwxb.icu
+hjkivkpclfmxu.online
 hjlhzdhkwmhhq.site
 hjlqivzfrrsgg.website
 hjnzt.skechers.com
@@ -75756,6 +75771,7 @@ hypnagogicsoundsuddenly.com
 hypnosesmatchlesspoplar.com
 hypnoticwound.com
 hypnotizesqueegeetricolor.com
+hyposreaveryelflike.qpon
 hypothesisgarden.com
 hypptujyuaxyz.space
 hyprmx.com
@@ -78607,6 +78623,7 @@ indextools.com
 indexuniverse.eu
 indexww.com
 indgq.simplyearth.com
+indiacom.com
 indianbannerexchange.com
 indianfriendfinder.com
 indianlinkexchange.com
@@ -79441,6 +79458,7 @@ info.thesmsgroup.com
 info.thestoryoftexas.com
 info.thomsonlinear.com
 info.tidbank.no
+info.tiendaalasexpress.com
 info.tiwoiltools.com
 info.tmlt.org
 info.toptal.com
@@ -81699,6 +81717,7 @@ izmsj.co.jp
 izmtws.shop
 izoga.xyz
 izooto.com
+izpvwgsjs.com
 izremx.dentalplans.com
 izrnvo.com
 izrtyacymo.com
@@ -100464,7 +100483,6 @@ medialand.relax.ru
 medialand.ru
 medialead.de
 medialets.com
-medialytics.com
 mediamath.com
 mediamathrdrt.com
 mediamelon.com
@@ -101372,6 +101390,7 @@ metrics.aon.com
 metrics.apartmentfinder.com
 metrics.apartments.com
 metrics.apboxes.com.au
+metrics.apet.org.br
 metrics.api.drift.com
 metrics.api.nasuni.com
 metrics.api4pw.com
@@ -103221,7 +103240,6 @@ mg.adskeeper.co.uk
 mg.campaign.tumi.com
 mg.cd.rangeusa.com
 mg.cscrewards.coldstonecreamery.com
-mg.dt00.net
 mg.e.mail.realtor.com
 mg.e.zagg.com
 mg.e4.llbean.com
@@ -105171,7 +105189,6 @@ mo.gatsbykynurin.com
 mo.gushiji.cc
 mo.haloapps.cn
 mo.kugou.com
-mo.res.wpscdn.cn
 mo.tb2track.pro
 mo0lqi51s1.com
 mo2dll.win123888.com
@@ -109438,6 +109455,7 @@ ngegyhsuaylyj.site
 ngepfoguoouph.space
 ngexcelelernodyd.org
 ngexcelelernodyde.org
+ngfduleliqwww.space
 ngfgohinubvbw.online
 ngfkrduait.com
 ngghll.me.co.kr
@@ -116988,6 +117006,7 @@ ovantfaits.com
 ovardu.com
 ovb.es
 oveeo.com
+ovefazghpttok.space
 ovekrdngtazex.space
 ovenaccording.com
 ovenbifaces.cam
@@ -120287,6 +120306,7 @@ phonytanghan.shop
 phonyview.pro
 phoobsoo.net
 phoratecollat.shop
+phorganicfoods.com
 phosphate50.com
 phosphatevotinglydia.com
 photicstopper.cyou
@@ -130934,6 +130954,7 @@ redmine.cityads.com
 redockcatwise.cfd
 redonetype.com
 redoubtantjar.cfd
+redowasiridate.com
 redpackrain.ksapisrv.com
 redpaper-10006092.cos.myqcloud.com
 redpineapplemedia.com
@@ -134058,6 +134079,7 @@ rtb-useast.mybiddertop.xyz
 rtb-useast.nasrev.com
 rtb-useast.nativeadshb.com
 rtb-useast.prertbdir.com
+rtb-useast.pronivydigital.com
 rtb-useast.pureadsltd.com
 rtb-useast.rankortbdirect.com
 rtb-useast.readywind.media
@@ -134122,6 +134144,7 @@ rtb-uswest.mobclixs.com
 rtb-uswest.omnijay.com
 rtb-uswest.pareto21.com
 rtb-uswest.prertbdir.com
+rtb-uswest.pronivydigital.com
 rtb-uswest.rankortbdirect.com
 rtb-uswest.rnkclkres.com
 rtb-uswest.rtbflairads.com
@@ -134319,7 +134342,6 @@ rthpetahceiol.space
 rtibriolhapk.com
 rtip4abjv3.com
 rtj.mybluehost.me
-rtjodijvjirb.com
 rtk.falalima.com.br
 rtk.fullsalessystem.com
 rtk.io
@@ -134928,6 +134950,7 @@ rwhneg.breaking-news.jp
 rwhxz.space
 rwjbdrzrqgsrf.space
 rwk2s6ypyqu5h81.kvest.ee
+rwkkrljyuazhf.site
 rwl.tremblant.ca
 rwlkmstaerhrt.site
 rwlqbrfsmtvyd.online
@@ -137227,6 +137250,7 @@ sanywnnlhmual.space
 saoazftijjigm.online
 saooti.com
 saooykasbxdts.space
+saouryadi.in
 sap-ag.de
 sap.prprocess.com
 sapato.liazzishoes.com.br
@@ -138978,6 +139002,7 @@ securetags.esriturkey.com.tr
 securetags.esriuk.com
 securetags.geotecnologias.com
 securetags.gisbaltic.eu
+securetags.igeo.com.bo
 securetags.img.com.br
 securetags.maps.com
 securetags.openware.com.kw
@@ -141513,6 +141538,7 @@ server.heroacademy.gg
 server.heynouri.com
 server.hijabstorebd.com
 server.himaloyprokashoni.com
+server.hipertin.com.ec
 server.hipnosebh.com.br
 server.historymakersgroup.com
 server.hkcases.com
@@ -142147,6 +142173,7 @@ server.paulaabreuoficial.com.br
 server.paulmisar.com
 server.pdvkawwhite.com.br
 server.peakforcelabs.com
+server.pediatricsboardreview.com
 server.pedraodalicitacao.com
 server.pelefiltro.com.br
 server.pellegrini-exposed.com
@@ -142222,6 +142249,7 @@ server.pro-aqua.com.br
 server.pro-vision-lighting.com
 server.proativaimoveis.com.br
 server.probus.nyc
+server.procav.com.br
 server.procherbd.com
 server.procolon.com.br
 server.produtosonline.com.br
@@ -147062,6 +147090,7 @@ sjrzq.oilperfumery.com
 sjs.bizographics.com
 sjsmartcontent.org
 sjsmartcontent.ru
+sjssggnph.com
 sjtqduaggooyp.website
 sjucxifhymhdr.space
 sjxctpzzjoxdw.website
@@ -150477,7 +150506,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -152657,6 +152685,7 @@ somn.wholesalepartysupplies.com
 somni.accenture.com
 somni.alaskaair.com
 somni.americanwesthomes.com
+somni.amrock.com
 somni.amsurg.com
 somni.ashleyfurniturehomestore.com
 somni.aussiespecialist.com
@@ -155185,6 +155214,7 @@ ss.combatops.com
 ss.comeek.co
 ss.commonsensedivorce.ca
 ss.compare.quantior-france.com
+ss.compareincomeprotection.co.nz
 ss.confidentspeak.com
 ss.connect.lime-technologies.com
 ss.containerspace.co.nz
@@ -157436,7 +157466,6 @@ sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -161426,6 +161455,7 @@ stabilefated.cfd
 stable-skill.com
 stableapp.net
 stableaspect.com
+stableconsist.pro
 stabledkindler.com
 stableunisonuntried.com
 stabsrunner.com
@@ -161822,6 +161852,7 @@ stape.autoretroclassicos.com.br
 stape.auxiliomae.com
 stape.avalianr01.com.br
 stape.avalonbroker.io
+stape.avantgarde.com.br
 stape.aveiatapecaria.com.br
 stape.aviamentossaopaulo.com.br
 stape.avivare.org
@@ -162902,6 +162933,7 @@ stape.lovepedagogia.com
 stape.lowndesimoveis.com.br
 stape.lp.amdpromocionais.com.br
 stape.lp.ameliacostura.com.br
+stape.lp.assegura.com.br
 stape.lp.biossegurancasemstress.com.br
 stape.lp.caveo.com.br
 stape.lp.fausp.edu.br
@@ -163110,6 +163142,7 @@ stape.motomecanica.com.br
 stape.movepark.co
 stape.mpqplastics.com.au
 stape.mudancasmonica.com.br
+stape.mudancastucuruvi.com.br
 stape.multise.com.br
 stape.mumzymart.com
 stape.mundodadoula.com.br
@@ -164884,6 +164917,7 @@ static.premiumads.com.br
 static.pressizeteam.com
 static.prime-bid.com
 static.prod.martech.cbssports.cloud
+static.pronivydigital.com
 static.proxibid.com
 static.ptqy.gitv.tv
 static.pushe.co
@@ -167503,7 +167537,6 @@ suibianmaimaicom.com
 suicidalruse.com
 suidaohgl.com
 suihayz.cfd
-suijidaohxl.top
 suitablecondemntin.com
 suitablepartner.life
 suitablyimmortalspaniel.shop
@@ -167934,7 +167967,6 @@ suszhi.com
 sut.dailyfx.com
 sut.iggroup.com
 sutiletoroid.com
-sutra69.com
 sutraf.com
 sutrasrebbe.qpon
 suttacen.qpon
@@ -170565,6 +170597,7 @@ tags.holosameryky.com
 tags.huurwoningen.com
 tags.huurwoningen.nl
 tags.idelreal.org
+tags.igeo.com.bo
 tags.imagin.com
 tags.insforge.dev
 tags.insidevoa.com
@@ -173858,7 +173891,6 @@ tjluxury3.com
 tjmchkmpqfszj.online
 tjme.io
 tjmsqsemqyshc.website
-tjmucsni.com
 tjn.abmelder.de
 tjn.abmelder24.de
 tjn.austrittausderkirche.de
@@ -180675,6 +180707,7 @@ trustlevel.org
 trustmark.demdex.net
 trustmaxonline.com
 trustmedia.co.il
+trustmodule.com
 trustphiladelphiacompelling.com
 trustpillsonline.com
 trustseal.e-rasaneh.ir
@@ -182007,7 +182040,6 @@ uapi.ads.oppomobile.com
 uapi.gravitec.net
 uapi.pandors.vip
 uapkagxacexij.online
-uapps.click
 uaqcui.tennis-point.fr
 uarating.com
 uarjf.rockyboots.com
@@ -191689,6 +191721,7 @@ wombalayah.com
 wombat.buildrtech.com
 wombat.modinfinity.com
 wombat.publicdrip.com
+wombatsdiseuse.com
 wombierfloc.com
 wombjingle.com
 wombmanred.cfd
@@ -198566,6 +198599,7 @@ ytfybjy.net
 ytgqhzfahpcep.site
 ythingy.com
 ytibejpiwuucg.online
+ytics.com
 ytihp.com
 ytinxswlejphn.space
 ytiwffwzbqxya.site
@@ -199026,6 +199060,7 @@ z5.cnzz.com
 z5g022gc.xyz
 z5mw4v9g1a.com
 z5x.net
+z5y.bnnxklj.cn
 z6.cnzz.com
 z60ft9y8lj.com
 z680.beaumontenterprise.com
@@ -199901,6 +199936,7 @@ zjkpxw.tesco.hu
 zjkt6ew4cp.com
 zjkuf.asbestosjobsites.com
 zjlasclkahbtq.space
+zjlgygluzmyvb.space
 zjliloveyou.ixiunv.com
 zjmwizpyxsreb.space
 zjosweqiruoaz.website
@@ -200131,6 +200167,7 @@ znqvozidirqnh.site
 znrakwmcjsvtm.online
 znrttr.jaypore.com
 znsv.baidu.com
+znszuawsteibx.website
 znt.mybluehost.me
 zntyosjbsivry.site
 zntyze774be7472d.top
@@ -200345,6 +200382,7 @@ zquitw.fxpro.com
 zqulie.masseys.com
 zqvfnrprrodge.site
 zqvhsojbqezvi.space
+zqvkipfkxjigc.com
 zqwe.ru
 zqwofo.liverpool.com.mx
 zqxuemmabklqq.online
@@ -202332,6 +202370,7 @@ dbancamd.com
 dbbsrv.com
 dbcbeoymg.com
 dbloader.leboncoin.info
+dbmgikwoijnhu.online
 dc.oppomobile.com
 dcbvegzfz.com
 dcjgqlosvpdaiq.com
@@ -202509,6 +202548,7 @@ dynamics880.net
 dynamicsin8800.com
 dynsrvtbg.com
 dynsrvwer.com
+dyosluubp.com
 dyp2p-ali.douyucdn.cn
 dyp2p-hw.douyucdn.cn
 dyttgsmq.com
@@ -202702,6 +202742,7 @@ expoclknu.com
 expplatdirect.com
 ext.host-tracker.com
 extractorandburner.com
+eyyejsherkfws.online
 ezdkixzdkr.com
 ezsjmzeb.com
 f.revotas.com
@@ -204944,13 +204985,11 @@ rtb-useast-v4.revbid.net
 rtb-useast-v4.vistarsagency.com
 rtb-useast.anyclip-media.com
 rtb-useast.denakop.com
-rtb-useast.pronivydigital.com
 rtb-useast.unibots.in
 rtb-useast.vistarsagency.com
 rtb-uswest-v4.revbid.net
 rtb-uswest-v4.vistarsagency.com
 rtb-uswest.adventurefeeds.com
-rtb-uswest.pronivydigital.com
 rtb-uswest.showcasead.com
 rtb-uswest.unibots.in
 rtb-uswest.vistarsagency.com
@@ -204961,6 +205000,7 @@ rtb.optidigital.com
 rtb.voiceads.cn
 rtb2-useast.foremedia.net
 rtbdem.com
+rtjodijvjirb.com
 rtjsbjniax.com
 rtlbetlcgd.com
 rtqglysfiafxgw.com
@@ -205229,7 +205269,6 @@ static.digiadglobal.com
 static.finevisit.com
 static.foremedia.net
 static.mntzm.com
-static.pronivydigital.com
 static.showcasead.com
 static.slimspots.com
 static.terratraf.com
@@ -205445,6 +205484,7 @@ tiwaffrm.in
 tj.b.qq.com
 tjcgzjovllhtr.com
 tjimliqvsb.com
+tjmucsni.com
 tjoystykn.com
 tjskjndukyk.com
 tkddcpuc.com
@@ -205611,6 +205651,7 @@ u0072.com
 uacopcyogxrqni.com
 uafgpkpvpac.com
 uanndryemvb.com
+uapps.click
 ubndxnesjlrjqn.com
 ubuqgtiumevh.com
 ubyf.cn
@@ -210295,6 +210336,7 @@ hblg.media.net
 idpix.media6degrees.com
 pixel.mediaiqdigital.com
 rbc.medialand.ru
+medialytics.com
 s-cdn-tag.medialytics.com
 beacons.mediamelon.com
 ads.mediasmart.es
@@ -213899,6 +213941,7 @@ meiluziai.info
 merrymilkfoods.com
 messagetag.com
 meta.7search.com
+mg.dt00.net
 mgjmp.com
 microsofto.sytes.net
 micrsoftupgradex.1apps.com
@@ -280507,7 +280550,6 @@ banners.dogfart.com
 theshemalesurvey.com
 ab.advertiserurl.com
 s.advertiserurl.com
-ads.brazzers.com
 ads2.brazzers.com
 ads.genericlink.com
 ads.ghettotube.com
@@ -283838,7 +283880,6 @@ sajour.fr
 salebestever.su
 sanbuzs.com
 santanderbank.fr
-saouryadi.in
 sartoriz.fr
 sbh9hu4trk.com
 scei-concour.fr
