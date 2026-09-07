@@ -31,13 +31,16 @@ extract_domains() {
 
 echo "Downloading and processing blocklists..."
 curl -fsSL --max-time 60 \
-https://raw.githubusercontent.com/bibicadotnet/blocklist_minimal/main/blocklists.txt \
+https://small.oisd.nl/domainswild2 \
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts \
+https://raw.githubusercontent.com/mvtruyen2003/Dns/refs/heads/main/Block \
 | extract_domains > "$BLOCK_TMP"
 
 echo "Downloading and processing allowlists..."
 curl -fsSL --max-time 60 \
 https://raw.githubusercontent.com/bibicadotnet/AdGuard-Home-blocklists/refs/heads/main/whitelist.txt \
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/Whitelists/Whitelist \
+https://raw.githubusercontent.com/mvtruyen2003/Dns/refs/heads/main/allowlist \
 | extract_domains > "$ALLOW_TMP"
 
 # Di chuyển file tmp vào thư mục đích
