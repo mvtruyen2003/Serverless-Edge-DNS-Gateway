@@ -31,8 +31,9 @@ extract_domains() {
 
 echo "Downloading and processing blocklists..."
 curl -fsSL --max-time 60 \
-https://small.oisd.nl/domainswild2 \
-https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts \
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/popupads-onlydomains.txt \
+https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt \
+https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-domains.txt \
 https://raw.githubusercontent.com/mvtruyen2003/Dns/refs/heads/main/Block \
 | extract_domains > "$BLOCK_TMP"
 
