@@ -738,10 +738,6 @@ log.nordot.jp
 geocode.xyz
 rta.xboxlive.com
 kangaroo.vocento.com
-voz.vn
-cap3.boats
-i.imgur.com
+garena.com
 anh.moe
 data.voz.vn
-xamvn.com
-xamvn.click
